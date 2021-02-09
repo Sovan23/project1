@@ -1,3 +1,4 @@
+#This is a command
 class charecter
 {
 	  public static void main (String[] args)
